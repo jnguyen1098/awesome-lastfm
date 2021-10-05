@@ -4,13 +4,13 @@
 
 ## Contents
 
-- [Collage Makers](#collage-makers) - tools to visualize your scrobbles
-- [Word Cloud Makers](#word-cloud-makers) - tools for making word clouds
-- [Scrobble Analyzers](#scrobble-analyzers) - charting and graphing tools
-- [Taste Analyzers](#taste-analyzers) - tools for analyzing your taste in music
+- [Collage Makers](#collage-makers) - tools to visualize your scrobbles in the form of a collage
+- [Word Cloud Makers](#word-cloud-makers) - tools for making word clouds (usually by genre or artist)
+- [Scrobble Analyzers](#scrobble-analyzers) - general charting and graphing tools
+- [Taste Analyzers](#taste-analyzers) - tools for analyzing your taste in music as a whole
 - [Discord Bots](#discord-bots) - some Discord bots for Last.fm integration
 - [Misc Tools](#misc-tools) - Other Last.fm tools for power users and the like
-- [Other Lists Like This](#other-lists-like-this) - self-explanatory
+- [Other Lists Like This](#other-lists-like-this) - other like-minded individuals' LastFM lists
 
 ## Collage Makers
 
