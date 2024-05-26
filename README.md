@@ -20,6 +20,8 @@ collages over a period of time; can show artists only as well as play count
 my personal - [Tapmusic](https://www.tapmusic.net/) - collage generator that lets you make
 up to 5x5 collages for free online (10x10 is premium-only, however you can use
 the Discord bot ".fmbot" to make 10x10s for free)
+- [SongStitch](https://songstitch.art/) - SongStitch is a free, fast and highly customisable last.fm
+collage generator that allows you to create personalised collages of your most played albums, artists, and tracks
 
 ## Word Cloud Makers
 
