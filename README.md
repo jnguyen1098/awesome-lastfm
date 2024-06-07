@@ -62,7 +62,7 @@ listened, not scrobbles
 
 - [Last.fm Mainstream Factor](https://mainstream.ghan.nl/) - analyze how
 mainstream your music taste is
-- [Last.fm Taste Overlap](https://7x11x13.xyz/) - see how your taste compares
+- [Last.fm Taste Overlap](https://7x11x13.xyz/last-fm-overlap/) - see how your taste compares
 to another user on Last.fm
 - [Last Milestones](https://lastfm.josephsemrai.com/) - take a step back in
 time and look at historical scrobble milestones (e.g. 10,000th scrobble)
