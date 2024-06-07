@@ -92,6 +92,8 @@ your scrobbles for any artist, album or track
 Completely free.
 - [Universal Scrobbler](https://www.universalscrobbler.com/) - tool for manual
 scrobbling of Last.fm songs. Paid.
+- [Receiptify](https://receiptify.herokuapp.com/) - generates a list receipt style graphic of your listening history
+- [Last.fm live](https://lastfm.live/) - Shows current activity of friends and more
 
 ## Other Lists Like This
 
