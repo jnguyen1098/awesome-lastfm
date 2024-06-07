@@ -29,6 +29,7 @@ collage generator that allows you to create personalised collages of your most p
 your scrobbles
 - [Tag Cloud Generator](https://tagcloud.joshuarainbow.co.uk/) - generate a
 word cloud of the genres you listen to
+- [Bubbles Last.fm labs](https://www.last.fm/labs/bubbles) - generate bubbles of your most listened to artists along with the ability to compare with friends
 
 ## Scrobble Analyzers
 
