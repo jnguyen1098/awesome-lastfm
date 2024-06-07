@@ -16,8 +16,7 @@
 
 - [Last.fm Collage Generator](https://www.nsfcd.com/lastfm/) - generate 3-5x
 collages over a period of time; can show artists only as well as play count
-- [Last.fm Rainbow Collage Generator](https://thechurchofkoen.com/lastfm/rainbowcollage/) -
-my personal - [Tapmusic](https://www.tapmusic.net/) - collage generator that lets you make
+- [Tapmusic](https://www.tapmusic.net/) - collage generator that lets you make
 up to 5x5 collages for free online (10x10 is premium-only, however you can use
 the Discord bot ".fmbot" to make 10x10s for free)
 - [SongStitch](https://songstitch.art/) - SongStitch is a free, fast and highly customisable last.fm
@@ -34,9 +33,6 @@ word cloud of the genres you listen to
 
 ## Scrobble Analyzers
 
-- [Barchart Race Creator](https://shanny.tools/#/lastfm-playground) - generate
-a video that shows your scrobbles over time similar to those world record
-progression videos
 - [explr.fm](https://mold.github.io/explr/) - analyze the geographic location
 of your Last.fm scrobbles
 - [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) - make
@@ -64,20 +60,12 @@ listened, not scrobbles
 mainstream your music taste is
 - [Last.fm Taste Overlap](https://7x11x13.xyz/last-fm-overlap/) - see how your taste compares
 to another user on Last.fm
-- [Last Milestones](https://lastfm.josephsemrai.com/) - take a step back in
-time and look at historical scrobble milestones (e.g. 10,000th scrobble)
-- [Paste My Taste](https://pastemytaste.com/) - creates a shareable list of top
-artists and genre information
-- [Toolsfm](https://toolsfm.com/) - another Swiss army knife-esque website with
-many fun tools such as predictions, scrobbles w/o album art, variety factor,
-scrobble API check, sorting, and many more
 
 ## Discord Bots
 
 - [.fmbot](https://fmbot.xyz/) - Discord bot for Last.fm music statistics
 - [Chuu](https://github.com/ishwi/Chuu) - highly customizable Last.fm user bot
 with over 200+ commands
-- [FMCord](https://discord.bots.gg/bots/521041865999515650) - another bot
 
 ## Misc Tools
 
