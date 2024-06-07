@@ -51,8 +51,6 @@ create colourful charts of your scrobbled artists, grouped by tag or similarity
 count of your top 10 artists over a period of time
 - [LastWave](https://savas.ca/lastwave/) - graph your music listening history
 in the form of a colourful graph
-- [MyMusicHabits](http://www.mymusichabits.com/) - analyze your artist/track
-listening habits over a period of time
 - [Nicholast.fm](https://nicholast.fm/) - analyze monthly/yearly top stats as
 well as recommend tracks and artists
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/) - visualize your history in
