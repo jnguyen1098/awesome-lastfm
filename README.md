@@ -80,6 +80,7 @@
   scrobbling of Last.fm songs. Paid.
 - [Receiptify](https://receiptify.herokuapp.com/) - generates a list receipt style graphic of your listening history
 - [Last.fm live](https://lastfm.live/) - Shows current activity of friends and more
+- [bijou.fm](https://www.bijou.fm/) - iOS, tvOS and web app with beautiful charts and much more.
 
 ## Other Lists Like This
 
