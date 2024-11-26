@@ -22,6 +22,7 @@
 - [SongStitch](https://songstitch.art/) - SongStitch is a free, fast and highly customisable last.fm
   collage generator that allows you to create personalised collages of your most played albums, artists, and tracks
 - [Topsters 3](https://topsters.org/) - a free collage generator, allowing for LastFM imports and charts up to 10x10, however only albums are able to be imported
+- [Collage Generator for Last.fm](https://github.com/jerboa88/Collage-Generator-for-Last.fm) - an open-source command-line app to generate a collage of your favorite albums based on Last.fm scrobbles
 
 ## Word Cloud Makers
 
