@@ -25,6 +25,8 @@
 - [Collage Generator for Last.fm](https://github.com/jerboa88/Collage-Generator-for-Last.fm) - an open-source command-line app to generate a collage of your favorite albums based on Last.fm scrobbles
 - [Musicorum](https://www.musicorumapp.com/generate) - open-source Last.fm collage generator allowing you to select different themes, grid size, and time periods
 - [Riffology](https://lastfm.riffology.co) - Collage generator for albums, artists and uses multiple sources to fetch unknown album art
+- [SonicPrint](https://sonicprint.art) - generate customizable Last.fm
+  album collages and Instagram stories with editable covers and grid sizes
 
 ## Word Cloud Makers
 
