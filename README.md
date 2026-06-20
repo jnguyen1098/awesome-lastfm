@@ -82,6 +82,7 @@
   your scrobbles for any artist, album or track
 - [Open Scrobbler](https://openscrobbler.com/) - tool for manual scrobbling.
   Completely free.
+- [Vinyl Scrobbler](https://vinylscrobbler.com/) - a scrobbler built specifically for vinyl listeners. Scrobbling is free and unlimited, extra features available on a Premium plan.
 - [Universal Scrobbler](https://www.universalscrobbler.com/) - tool for manual
   scrobbling of Last.fm songs. Paid.
 - [Receiptify](https://receiptify.herokuapp.com/) - generates a list receipt style graphic of your listening history
