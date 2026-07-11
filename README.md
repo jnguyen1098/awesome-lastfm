@@ -58,6 +58,12 @@
   the form of a graph, by artist
 - [Timewhizzs](https://timewhizzs.net/) - generate charts based on minutes
   listened, not scrobbles
+- [Tunemetry](https://tunemetry.com) - all kinds of stats and visualizations
+  for your listening history in one place
+
+
+
+
 
 ## Taste Analyzers
 
