@@ -60,6 +60,9 @@
   listened, not scrobbles
 - [Tunemetry](https://tunemetry.com) - all kinds of stats and visualizations
   for your listening history in one place
+- [V0 Visualizer](https://v0.hasanjws.com/) - explore your Last.fm history
+  through interactive charts, Taste Match, Story Composer, and V0Rooms for
+  live group listening
 
 
 
