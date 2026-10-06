@@ -75,6 +75,7 @@
 - [Last.fm Taste Overlap](https://7x11x13.xyz/last-fm-overlap/) - see how your taste compares
   to another user on Last.fm
 - [Last.fm Iceberg chart generator](https://lastfm-iceberg.dawdle.space/) - find non-mainstream artists among your favorite
+- [Music Taste Atlas](https://music-taste-atlas.vercel.app/) - map your artists by country and genre
 
 ## Discord Bots
 
