@@ -30,8 +30,6 @@
 
 ## Word Cloud Makers
 
-- [Artist Cloud](http://lastfm.dontdrinkandroot.net/) - generate word cloud of
-  your scrobbles
 - [Tag Cloud Generator](https://tagcloud.joshuarainbow.co.uk/) - generate a
   word cloud of the genres you listen to
 - [Bubbles Last.fm labs](https://www.last.fm/labs/bubbles) - generate bubbles of your most listened to artists along with the ability to compare with friends
