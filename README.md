@@ -6,6 +6,7 @@
 
 - [Collage Makers](#collage-makers) - tools to visualize your scrobbles in the form of a collage
 - [Word Cloud Makers](#word-cloud-makers) - tools for making word clouds (usually by genre or artist)
+- [Wallpapers](#wallpapers) - desktop wallpapers built from what you play
 - [Scrobble Analyzers](#scrobble-analyzers) - general charting and graphing tools
 - [Taste Analyzers](#taste-analyzers) - tools for analyzing your taste in music as a whole
 - [Discord Bots](#discord-bots) - some Discord bots for Last.fm integration
@@ -33,6 +34,11 @@
 - [Tag Cloud Generator](https://tagcloud.joshuarainbow.co.uk/) - generate a
   word cloud of the genres you listen to
 - [Bubbles Last.fm labs](https://www.last.fm/labs/bubbles) - generate bubbles of your most listened to artists along with the ability to compare with friends
+
+## Wallpapers
+
+- [ScrobbleWall](https://scrobblewall.com/) - free Windows app that turns your listening history into desktop wallpapers that rotate on their own: what you're playing now, album and artist collages for any period, word clouds, forgotten albums and a 24-hour listening clock. Also has a [web generator](https://scrobblewall.com/make/) for desktop and phone wallpapers.
+- [Soundwall](https://github.com/jac0b-w/AlbumPaper) - open-source Windows app that sets your wallpaper to the album art of the song you're playing (Spotify or Last.fm).
 
 ## Scrobble Analyzers
 
