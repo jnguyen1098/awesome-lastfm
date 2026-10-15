@@ -42,6 +42,8 @@
 
 ## Scrobble Analyzers
 
+- [Eras](https://eras.matranc.com/) - split your history into the album,
+  artist and genre eras that ran each stretch of it
 - [explr.fm](https://mold.github.io/explr/) - analyze the geographic location
   of your Last.fm scrobbles
 - [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) - make
