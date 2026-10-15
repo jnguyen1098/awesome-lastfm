@@ -67,6 +67,8 @@
 - [V0 Visualizer](https://v0visualizer.com/) - explore your Last.fm history
   through interactive charts, Taste Match, Story Composer, and V0Rooms for
   live group listening
+- [ShikakaStats](https://stats.shikaka.net) - all-in-one Last.fm stats tool with graphs, collages, library import/export and listening-based games
+- [Lastfmstats](https://lastfmstats.com/) - open-source stats site with streaks, lists, charts, custom date ranges and scrobble import/export
 
 
 
