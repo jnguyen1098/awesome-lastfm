@@ -71,7 +71,7 @@
   live group listening
 - [ShikakaStats](https://stats.shikaka.net) - all-in-one Last.fm stats tool with graphs, collages, library import/export and listening-based games
 - [Lastfmstats](https://lastfmstats.com/) - open-source stats site with streaks, lists, charts, custom date ranges and scrobble import/export
-
+- [myfrequency](https://myfrequency.net/) - free, ad-free Last.fm stats with a social twist: your tops and charts, friends listening now, music taste compatibility, reactions and notes on tracks
 
 
 
