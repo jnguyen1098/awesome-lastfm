@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Scrobblers](#scrobblers) - collection of alternative scrobble trackers.
 - [Collage Makers](#collage-makers) - tools to visualize your scrobbles in the form of a collage
 - [Word Cloud Makers](#word-cloud-makers) - tools for making word clouds (usually by genre or artist)
 - [Wallpapers](#wallpapers) - desktop wallpapers built from what you play
@@ -12,6 +13,10 @@
 - [Discord Bots](#discord-bots) - some Discord bots for Last.fm integration
 - [Misc Tools](#misc-tools) - Other Last.fm tools for power users and the like
 - [Other Lists Like This](#other-lists-like-this) - other like-minded individuals' LastFM lists
+
+## Scrobblers
+- [Last.fm Official Apps](https://www.last.fm/about/trackmymusic) - Official list of Last.fm applications for various operating systems
+- [Pano Scrobbler](https://kawaiidango.github.io/pano-scrobbler/) - An open-source feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 
 ## Collage Makers
 
