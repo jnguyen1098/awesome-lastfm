@@ -17,6 +17,10 @@
 ## Scrobblers
 - [Last.fm Official Apps](https://www.last.fm/about/trackmymusic) - Official list of Last.fm applications for various operating systems
 - [Pano Scrobbler](https://kawaiidango.github.io/pano-scrobbler/) - An open-source feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [Open Scrobbler](https://openscrobbler.com/) - tool for manual scrobbling.
+  Completely free.
+- [Vinyl Scrobbler](https://vinylscrobbler.com/) - a scrobbler built specifically for vinyl listeners. Scrobbling is free and unlimited, extra features available on a Premium plan.
+- [Universal Scrobbler](https://www.universalscrobbler.com/) - tool for manual scrobbling of Last.fm songs. Paid.
 
 ## Collage Makers
 
@@ -103,11 +107,6 @@
   dynamically-generated Last.fm stats for your GitHub profile README
 - [Last.fm Bulk Edit](https://github.com/RudeySH/lastfm-bulk-edit) - bulk edit
   your scrobbles for any artist, album or track
-- [Open Scrobbler](https://openscrobbler.com/) - tool for manual scrobbling.
-  Completely free.
-- [Vinyl Scrobbler](https://vinylscrobbler.com/) - a scrobbler built specifically for vinyl listeners. Scrobbling is free and unlimited, extra features available on a Premium plan.
-- [Universal Scrobbler](https://www.universalscrobbler.com/) - tool for manual
-  scrobbling of Last.fm songs. Paid.
 - [Receiptify](https://receiptify.herokuapp.com/) - generates a list receipt style graphic of your listening history
 - [Last.fm live](https://lastfm.live/) - Shows current activity of friends and more
 - [bijou.fm](https://www.bijou.fm/) - iOS, tvOS and web app with beautiful charts and much more.
