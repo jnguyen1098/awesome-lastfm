@@ -115,6 +115,8 @@
 - [lastfm-dl](https://github.com/shukriadams/lastfm-dl) - Downloads scrobble history from lastfm.
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - free, open-source macOS menu bar app that scrobbles what you play in Apple Music, Spotify, YouTube Music in the browser and other players, with a built-in listening profile (totals, top charts, yearly heatmap) and word-synced desktop lyrics.
 
+- [No Stairs Please](https://nostairsplease.com/) - Every small stage in all 50 states, and who books it ([venues directory](https://nostairsplease.com/venues))
+
 ## Other Lists Like This
 
 - [List of Spotify/Last.fm stats websites](https://www.reddit.com/r/lastfm/comments/htzomy/list_of_spotifylastfm_stats_websites_and_not_just/) - /r/lastfm post that inspired this one
